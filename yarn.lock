@@ -744,9 +744,9 @@
     to-fast-properties "^2.0.0"
 
 "@ethersproject/abi@^5.0.0-beta.142":
-  version "5.0.0-beta.142"
-  resolved "https://registry.yarnpkg.com/@ethersproject/abi/-/abi-5.0.0-beta.142.tgz#cde0ced7daa2fbc98e35a2c31203331907e84a39"
-  integrity sha512-vJ2V9fPNzi+8iutY4sjy6mgogkJtiGsd9hmpa1bjnGW6qnHOEkAV1fzVpvT002LlnjFgqgtzuLBDZob6oU7i8w==
+  version "5.0.0-beta.145"
+  resolved "https://registry.yarnpkg.com/@ethersproject/abi/-/abi-5.0.0-beta.145.tgz#dd80c3e7fd01f9c13d3bb4cff543e56afbbf7600"
+  integrity sha512-buO1aiUe408qo8guMzwvzezUVKmQyhM21sbNaG8XrktrnxTNLvRghN1NYbtQi8Ov0ZT+P93VPz1whKu1Y2s2Xg==
   dependencies:
     "@ethersproject/address" ">=5.0.0-beta.128"
     "@ethersproject/bignumber" ">=5.0.0-beta.130"
